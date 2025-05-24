@@ -1,13 +1,18 @@
 ## Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoOrtiz&layout=donut&theme=dark&langs_count=12)](https://github.com/BrenoOrtiz/github-readme-stats)
-
-<h5 align="left">Backend:</h5>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenoOrtiz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="175" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=BrenoOrtiz&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="175" alt="streak graph"  />
+</div>
 
 ###
 
-<div align="left">
+<h5 align="center">Backend:</h5>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
@@ -21,11 +26,11 @@
 
 ###
 
-<h5 align="left">Frontend:</h5>
+<h5 align="center">Frontend:</h5>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
